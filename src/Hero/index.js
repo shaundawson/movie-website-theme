@@ -8,7 +8,7 @@ const Hero = () => {
     <div className="jumbotron">
     <div class="container">
     <div class="row">
-      <div class="col-md">
+      <div class="col-sm">
       <Iframe url="https://player.vimeo.com/video/325810319?title=0&byline=0&portrait=0"
       width="720px"
       height="480px"
@@ -19,7 +19,13 @@ const Hero = () => {
       allowFullScreen/>
       </div>
       <div class="col-sm">
-        One of three columns
+      <hr></hr>
+      <h4>
+      HOST A SCREENING
+      </h4>
+      <p>
+      If you are interested in bringing the film to your community or campus, please fill out the form below and we will be in touch shortly!
+      </p>
       </div>
     </div>
   </div>
