@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color: white!important;
+    height: 100vh!important;
+    padding-bottom:0px!important;
+  }
+
+  .container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-55%);
+  }
+
+  .fab {
+   color: #ffffff!important;
+   font-size: 30px;
+  }
+

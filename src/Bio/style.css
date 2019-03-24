@@ -1,0 +1,36 @@
+.bio {
+    background-image: url("https://i.imgur.com/bAtLZ45.jpg?1")!important;
+    background-position: bottom right -125px; 
+    background-repeat: no-repeat;
+    background-size: contain ;
+    height: 105vh;
+    background-color: #f8f8f9;
+}
+
+.news {
+    padding: 20px;
+}
+
+.lead {
+    font-size: 14px!important;
+    line-height: 1.5!important;
+    margin-right: 40%!important;
+    font-weight: 400!important;
+
+}
+
+
+.mb-0 {
+    font-size: 30px!important;
+    color: black!important;
+}
+
+.text-primary {
+    color: #f5a5b9!important;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 16px;
+}
+
