@@ -1,13 +1,13 @@
 .jumbotron {
     background-color: white!important;
     height: 100vh!important;
-    padding-bottom:0px!important;
   }
 
   .container {
     position: relative;
     top: 60%;
-    transform: translateY(-55%);
+    transform: translateY(-50%);
+    margin-left: -25px;
   }
 
   .fab {
