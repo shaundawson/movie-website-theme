@@ -17,3 +17,8 @@ img.logo-image {
     height: 33px!important;
     width: 200px!important;
   }
+
+  ul.dropdown-menu.show {
+  width: 10%;
+  }
+

@@ -3,15 +3,12 @@
     height: 100vh!important;
   }
 
-  .container {
-    position: relative;
-    top: 60%;
-    transform: translateY(-50%);
-    margin-left: -25px;
-  }
-
   .fab {
    color: #ffffff!important;
    font-size: 30px;
   }
 
+.iframe {
+  height: 80%;
+  width: 100%;
+}

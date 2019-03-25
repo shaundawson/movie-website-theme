@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./style.css";
 
-const Bio = () => {
+const About = () => {
   return (
     <div className="bio">
       <section class="about-section p-3 p-lg-3 d-flex d-column" id="about">
@@ -20,4 +20,4 @@ const Bio = () => {
     </div>
   );
 };
-export default Bio;
+export default About;
